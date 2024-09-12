@@ -1,4 +1,11 @@
 REST - Representational State Transfer
 API - Application Program Interface
 
+Методы:
+GET
+POST
+PUT
+DELETE
+
+
 
