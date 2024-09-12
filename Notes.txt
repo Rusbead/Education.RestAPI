@@ -1,0 +1,4 @@
+REST - Representational State Transfer
+API - Application Program Interface
+
+
